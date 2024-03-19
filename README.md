@@ -30,7 +30,6 @@ Welcome! 👋<br>My name is Çağla and I work as an SDET (Software Development 
     <img width="35" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
     <img width="35" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt="Sublime Text" title="Sublime Text"/>
     <img width="35" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
-    <img width="35" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" alt="Canva" title="Canva"/>
 </div>
 </html>
 
