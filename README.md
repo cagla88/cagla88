@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome! 👋<br>My name is Çağla and I work as an SDET (Software Development Engineer in Test). <br>I write automation tests using tools like Java, Selenium, Cucumber, JUnit, TestNG, and Rest Assured. <br>Additionally, I contribute to Afet Yönetim Sistemleri as a volunteer.<br>
+Welcome! 👋<br>My name is Çağla and I work as an SDET (Software Development Engineer in Test). <br>I write automation tests using tools like Java, Selenium, Cucumber, JUnit, TestNG, and Rest Assured. <br>Additionally, I contribute to Afet Yönetim Sistemi as a volunteer.<br>
 
 
 # 🌐 Socials:
